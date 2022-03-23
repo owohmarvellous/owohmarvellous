@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @owohmarvellous
 - 👀 I’m interested in being a better programmer
-- 🌱 I’m currently learning javascript,php.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development using javascript,php.
 - 📫 How to reach me :Reach me on gmail @owohchijindu30@gmail.com 
 
 <!---
