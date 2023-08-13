@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owohmarvellous
 - 👀 I’m interested in being a better programmer
-- 🌱 I’m currently learning web development using javascript,php.
+- 🌱 I’m currently learning backend development using django and postgresql.
 - 📫 How to reach me :Reach me on gmail @owohchijindu30@gmail.com 
 
 <!---
